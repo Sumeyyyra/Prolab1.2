@@ -30,5 +30,5 @@ This project is designed to help students learn object-oriented programming and 
 
 ### Documentation
 - Detailed reports and documentation can be found in the following files:
-  - 220202070(1.2).pdf
-  - prolab_23_24_güz_son.pdf
+[Project Description PDF](./prolab_23_24_güz_son.pdf)
+[Project Report PDF](./220202070(1.2).pdf)
